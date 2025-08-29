@@ -51,6 +51,5 @@
 
 ## 🐍 My Contribution Snake
 <p align="center">
-  <img src="https://github.com/OmarLahjouji/OmarLahjouji/blob/output/snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/omarlahjouji001/omarlahjouji001/output/snake.svg" alt="Snake animation"/>
 </p>
-
