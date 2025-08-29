@@ -22,10 +22,10 @@ Based in Marrakech, Morocco
 ---
 
 ## Featured Projects
-- 🔹 **CI/CD Pipeline Automation** → Jenkins + Docker + Kubernetes + AWS  
-- 🔹 **TaskFlow** – Full-stack task management (React + Django + PostgreSQL)  
-- 🔹 **Internal Management WebApp** – Laravel + Tailwind + MySQL  
-- 🔹 **Sustainability Dashboard** – Django + React + DataViz  
+-  **CI/CD Pipeline Automation** → Jenkins + Docker + Kubernetes + AWS  
+-  **TaskFlow** – Full-stack task management (React + Django + PostgreSQL)  
+-  **Internal Management WebApp** – Laravel + Tailwind + MySQL  
+-  **Sustainability Dashboard** – Django + React + DataViz  
 
 ---
 
