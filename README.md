@@ -51,7 +51,6 @@
 
 ---
 
-## 🐍 My Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/omarlahjouji001/omarlahjouji001/output/snake.svg" alt="Snake animation"/>
-</p>
+## 🐍 My 3D Profile
+![My 3D Profile](assets/profile-night-green.svg)
+
