@@ -1,7 +1,7 @@
 <!-- Omar Lahjouji GitHub Profile README -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=00F7FF&center=true&vCenter=true&width=850&height=70&lines=🚀+Omar+Lahjouji;💻+DevOps+%7C+Cloud+%7C+Automation;⚡+Building+Scalable+Futures" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=9112BC&center=true&vCenter=true&width=850&height=70&lines=🚀+Omar+Lahjouji;💻+DevOps+%7C+Cloud+%7C+Automation;⚡+Building+Scalable+Futures" />
 </h1>
 
 ---
@@ -54,11 +54,3 @@
   <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
 </p>
 
----
-
-## ✨ Futuristic Vibes
-```ascii
-      ██████╗░░█████╗░███╗░░░███╗░░░░░░░██████╗
-      ██╔══██╗██╔══██╗████╗░████║░░░░░░██╔════╝
-      ██████╔╝██║░░██║██╔████╔██║█████╗╚█████╗░
-      ██╔═══╝░█
