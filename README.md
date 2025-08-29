@@ -46,7 +46,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=omarlahjouji001&style=flat-square&color=00F7FF" alt="profile views"/>
   <img src="https://img.shields.io/github/followers/omarlahjouji001?style=flat-square&color=00F7FF"/>
-  <img src="https://img.shields.io/badge/Contributions-132-brightgreen?style=flat-square&logo=github"/>
 </p>
 
 ---
