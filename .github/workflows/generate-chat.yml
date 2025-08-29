@@ -1,0 +1,56 @@
+name: Generate Chat SVG
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  generate-chat:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Create chat SVG
+        run: |
+          mkdir -p chat
+          cat << 'EOF' > chat/chat.svg
+<svg width="550" height="684" viewBox="0 0 550 684" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bubble { fill: #e9e9eb; }
+    text { fill: #242424; font-size: 18px; font-family: 'Inter'; }
+    .typing-1 { opacity:0; animation: fade-in-out 1.5s; }
+    .msg-1 { animation: wait 1.7s, msg-1 0.2s 1.7s; }
+    @keyframes wait {0%,100%{opacity:0;}}
+    @keyframes fade-in-out {0%,100%{opacity:0;}25%,90%{opacity:1;}}
+    @keyframes msg-1 {0%{opacity:0; transform: translate(10px,5px);}100%{opacity:1; transform:translate(10px,0);}}
+  </style>
+
+  <!-- Message example -->
+  <g transform="translate(10, 0)" class="msg-1 bubble">
+    <rect width="200" height="42" rx="18" />
+    <text x="15" y="27">👋 Hello, I'm Omar</text>
+  </g>
+
+  <g transform="translate(10, 60)" class="msg-2 bubble">
+    <rect width="300" height="42" rx="18" />
+    <text x="15" y="27">📍 Based in Marrakech, Morocco</text>
+  </g>
+
+  <g transform="translate(10, 120)" class="msg-3 bubble">
+    <rect width="400" height="42" rx="18" />
+    <text x="15" y="27">⚡ Passionate about DevOps | Cloud | Automation</text>
+  </g>
+
+</svg>
+EOF
+
+      - name: Commit SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add chat/chat.svg
+          git commit -m "Update chat SVG" || echo "No changes"
+          git push
