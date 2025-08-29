@@ -1,16 +1,52 @@
-<!-- Inclure Three.js et un canvas minimal -->
-<script src="https://unpkg.com/three@0.152.2/build/three.min.js"></script>
-<canvas id="scene"></canvas>
-<script>
-const scene = new THREE.Scene();
-const camera = new THREE.PerspectiveCamera(75, innerWidth/innerHeight, 0.1, 1000);
-const renderer = new THREE.WebGLRenderer({canvas: document.getElementById('scene'), antialias: true});
-renderer.setSize(innerWidth, innerHeight);
-const geometry = new THREE.TorusKnotGeometry( 10, 3, 100, 16 );
-const material = new THREE.MeshNormalMaterial();
-const torusKnot = new THREE.Mesh( geometry, material );
-scene.add( torusKnot );
-camera.position.z = 50;
-function animate(){ requestAnimationFrame(animate); torusKnot.rotation.x += 0.01; torusKnot.rotation.y += 0.02; renderer.render(scene, camera); }
-animate();
-</script>
+<!-- Spectacular GitHub Profile README -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=09F7E7&center=true&vCenter=true&width=800&height=70&lines=🚀+Welcome+to+My+3D+Universe;👨‍💻+Coding+is+my+superpower;✨+Building+Spectacular+Stuff+Everyday" />
+</h1>
+
+---
+
+### 🌀 About Me  
+🌍 Explorer of **code, creativity, and imagination**  
+💡 Passionate about **3D, design & futuristic tech**  
+⚡ Always looking for **the WOW effect**  
+
+---
+
+### ⚡ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,threejs,python,git,docker" />
+</p>
+
+---
+
+### 🚀 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" height="160" />
+  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" height="160" />
+</p>
+
+---
+
+### 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=matrix&column=7" />
+</p>
+
+---
+
+### 🐍 Watch My Contributions Snake
+<p align="center">
+  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### ✨ 3D Futuristic Vibes
+```ascii
+      ░█████╗░██╗░░░██╗██╗███╗░░██╗
+      ██╔══██╗██║░░░██║██║████╗░██║
+      ███████║╚██╗░██╔╝██║██╔██╗██║
+      ██╔══██║░╚████╔╝░██║██║╚████║
+      ██║░░██║░░╚██╔╝░░██║██║░╚███║
+      ╚═╝░░╚═╝░░░╚═╝░░░╚═╝╚═╝░░╚══╝
