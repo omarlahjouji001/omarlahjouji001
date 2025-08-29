@@ -1,27 +1,27 @@
 <!-- Omar Lahjouji GitHub Profile README -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=9112BC&center=true&vCenter=true&width=850&height=70&lines=🚀+Omar+Lahjouji;💻+DevOps+%7C+Cloud+%7C+Automation;⚡+Building+Scalable+Futures" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=9112BC&center=true&vCenter=true&width=850&height=70&lines=+Omar+Lahjouji;+DevOps+%7C+Cloud+%7C+Automation;+Building+Scalable+Futures" />
 </h1>
 
 ---
 
-## 🌀 About Me
-🎓 Final-year **Engineering Student** – Networks, Systems & Programmable Services  
-⚙️ Passionate about **DevOps, Cloud & Automation**  
-🧠 Ex-**President of Brain X Club** – Leadership, Teamwork & AI Community  
-🌍 Based in Marrakech, Morocco  
+## About Me
+Final-year **Engineering Student** – Networks, Systems & Programmable Services  
+Passionate about **DevOps, Cloud & Automation**  
+Ex-**President of Brain X Club** – Leadership, Teamwork & AI Community  
+Based in Marrakech, Morocco  
 
 ---
 
-## ⚡ Tech Arsenal
+## Tech Stack:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,ansible,git,github,linux,python,java,js,react,django,laravel,mysql,postgresql" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 - 🔹 **CI/CD Pipeline Automation** → Jenkins + Docker + Kubernetes + AWS  
 - 🔹 **TaskFlow** – Full-stack task management (React + Django + PostgreSQL)  
 - 🔹 **Internal Management WebApp** – Laravel + Tailwind + MySQL  
@@ -29,7 +29,7 @@
 
 ---
 
-## 🏆 Certifications
+## Certifications
 - ✅ AWS Cloud Practitioner (2025)  
 - ✅ Machine Learning – Stanford / DeepLearning.AI (2023)  
 - 🔜 AWS Solutions Architect – Associate (2025)  
