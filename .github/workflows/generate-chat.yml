@@ -6,12 +6,16 @@ on:
       - main
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  generate-chat:
+  build:
     runs-on: ubuntu-latest
+    name: generate-chat-svg
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Create chat SVG
         run: |
@@ -21,36 +25,7 @@ jobs:
   <style>
     .bubble { fill: #e9e9eb; }
     text { fill: #242424; font-size: 18px; font-family: 'Inter'; }
-    .typing-1 { opacity:0; animation: fade-in-out 1.5s; }
-    .msg-1 { animation: wait 1.7s, msg-1 0.2s 1.7s; }
-    @keyframes wait {0%,100%{opacity:0;}}
-    @keyframes fade-in-out {0%,100%{opacity:0;}25%,90%{opacity:1;}}
-    @keyframes msg-1 {0%{opacity:0; transform: translate(10px,5px);}100%{opacity:1; transform:translate(10px,0);}}
   </style>
 
-  <!-- Message example -->
-  <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="200" height="42" rx="18" />
-    <text x="15" y="27">👋 Hello, I'm Omar</text>
-  </g>
-
-  <g transform="translate(10, 60)" class="msg-2 bubble">
-    <rect width="300" height="42" rx="18" />
-    <text x="15" y="27">📍 Based in Marrakech, Morocco</text>
-  </g>
-
-  <g transform="translate(10, 120)" class="msg-3 bubble">
-    <rect width="400" height="42" rx="18" />
-    <text x="15" y="27">⚡ Passionate about DevOps | Cloud | Automation</text>
-  </g>
-
-</svg>
-EOF
-
-      - name: Commit SVG
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add chat/chat.svg
-          git commit -m "Update chat SVG" || echo "No changes"
-          git push
+  <!-- Messages -->
+  <g transform="t
