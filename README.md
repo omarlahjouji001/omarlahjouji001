@@ -1,52 +1,64 @@
-<!-- Spectacular GitHub Profile README -->
+<!-- Omar Lahjouji GitHub Profile README -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=09F7E7&center=true&vCenter=true&width=800&height=70&lines=🚀+Welcome+to+My+3D+Universe;👨‍💻+Coding+is+my+superpower;✨+Building+Spectacular+Stuff+Everyday" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=00F7FF&center=true&vCenter=true&width=850&height=70&lines=🚀+Omar+Lahjouji;💻+DevOps+%7C+Cloud+%7C+Automation;⚡+Building+Scalable+Futures" />
 </h1>
 
 ---
 
-### 🌀 About Me  
-🌍 Explorer of **code, creativity, and imagination**  
-💡 Passionate about **3D, design & futuristic tech**  
-⚡ Always looking for **the WOW effect**  
+## 🌀 About Me
+🎓 Final-year **Engineering Student** – Networks, Systems & Programmable Services  
+⚙️ Passionate about **DevOps, Cloud & Automation**  
+🧠 Ex-**President of Brain X Club** – Leadership, Teamwork & AI Community  
+🌍 Based in Marrakech, Morocco  
 
 ---
 
-### ⚡ Tech Stack
+## ⚡ Tech Arsenal
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,threejs,python,git,docker" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,ansible,git,github,linux,python,java,js,react,django,laravel,mysql,postgresql" />
 </p>
 
 ---
 
-### 🚀 GitHub Stats
+## 🚀 Featured Projects
+- 🔹 **CI/CD Pipeline Automation** → Jenkins + Docker + Kubernetes + AWS  
+- 🔹 **TaskFlow** – Full-stack task management (React + Django + PostgreSQL)  
+- 🔹 **Internal Management WebApp** – Laravel + Tailwind + MySQL  
+- 🔹 **Sustainability Dashboard** – Django + React + DataViz  
+
+---
+
+## 🏆 Certifications
+- ✅ AWS Cloud Practitioner (2025)  
+- ✅ Machine Learning – Stanford / DeepLearning.AI (2023)  
+- 🔜 AWS Solutions Architect – Associate (2025)  
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" height="160" />
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=00F7FF" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat-square&color=00F7FF"/>
 </p>
 
 ---
 
-### 🏆 Achievements
+## 🐍 My Contribution Snake
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=matrix&column=7" />
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
-### 🐍 Watch My Contributions Snake
-<p align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-### ✨ 3D Futuristic Vibes
+## ✨ Futuristic Vibes
 ```ascii
-      ░█████╗░██╗░░░██╗██╗███╗░░██╗
-      ██╔══██╗██║░░░██║██║████╗░██║
-      ███████║╚██╗░██╔╝██║██╔██╗██║
-      ██╔══██║░╚████╔╝░██║██║╚████║
-      ██║░░██║░░╚██╔╝░░██║██║░╚███║
-      ╚═╝░░╚═╝░░░╚═╝░░░╚═╝╚═╝░░╚══╝
+      ██████╗░░█████╗░███╗░░░███╗░░░░░░░██████╗
+      ██╔══██╗██╔══██╗████╗░████║░░░░░░██╔════╝
+      ██████╔╝██║░░██║██╔████╔██║█████╗╚█████╗░
+      ██╔═══╝░█
