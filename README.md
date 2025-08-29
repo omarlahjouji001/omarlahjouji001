@@ -39,12 +39,12 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omarlahjouji001&show_icons=true&theme=radical&hide_border=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=omarlahjouji001&theme=radical&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=00F7FF" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat-square&color=00F7FF"/>
+  <img src="https://komarev.com/ghpvc/?username=omarlahjouji001&style=flat-square&color=00F7FF" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/omarlahjouji001?style=flat-square&color=00F7FF"/>
 </p>
 
 ---
