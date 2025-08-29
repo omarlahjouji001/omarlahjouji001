@@ -52,5 +52,5 @@
 ---
 
 ## 🐍 My 3D Profile
-![My 3D Profile](assets/profile-night-green.svg)
+![My 3D GitHub Profile](profile/profile-night-green.svg)
 
