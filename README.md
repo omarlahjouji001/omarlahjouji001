@@ -50,6 +50,6 @@
 
 ---
 
-## 🐍 My 3D Profile
-![3D Contribution Graph](https://github.com/omarlahjouji001/omarlahjouji001/blob/main/profile-3d-contrib/profile-night-green.svg)
+## My 3D Profile
+![3D Contribution Graph](https://github.com/omarlahjouji001/omarlahjouji001/blob/main/profile-3d-contrib/profile-night-view.svg)
 
