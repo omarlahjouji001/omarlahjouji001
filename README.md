@@ -16,7 +16,7 @@ Based in Marrakech, Morocco
 
 ## Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,ansible,git,github,linux,python,java,js,react,django,laravel,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,ansible,git,github,gitlab,linux,python,java,js,php,C,C++,html,css,react,django,laravel,tailwind,mysql,postgresql" />
 </p>
 
 ---
