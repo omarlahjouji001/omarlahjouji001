@@ -1,53 +1,7 @@
 <!-- Omar Lahjouji GitHub Profile README -->
 
-<h1 align="center" style="font-family: 'Courier New', monospace; color:#9112BC;">
-  <span class="typewriter"></span>
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=9112BC&center=true&vCenter=true&width=850&height=70&lines=+Omar+Lahjouji;+DevOps+%7C+Cloud+%7C+artificialintelligence;+Building+Scalable+Futures" />
 </h1>
-
-<style>
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
-
-@keyframes blink {
-  50% { border-color: transparent }
-}
-
-.typewriter {
-  display: inline-block;
-  overflow: hidden;
-  border-right: .15em solid #9112BC; /* Curseur */
-  white-space: nowrap;
-  margin: 0 auto;
-  font-size: 28px;
-  font-weight: bold;
-  animation: typing 4s steps(40, end), blink .75s step-end infinite;
-}
-
-/* Tu peux changer les phrases en JS */
-</style>
-
-<script>
-const texts = [
-  "👋 Omar Lahjouji",
-  "⚡ DevOps | ☁️ Cloud | 🤖 AI",
-  "🚀 Building Scalable Futures"
-];
-let i = 0;
-const tw = document.querySelector('.typewriter');
-
-function typeText() {
-  tw.textContent = texts[i];
-  tw.style.animation = "none";
-  void tw.offsetWidth; // reset animation
-  tw.style.animation = "typing 4s steps(40, end), blink .75s step-end infinite";
-  i = (i + 1) % texts.length;
-}
-
-typeText();
-setInterval(typeText, 5000); // change toutes les 5s
-</script>
 
 ---
 
