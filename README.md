@@ -1,14 +1,14 @@
 <!-- Omar Lahjouji GitHub Profile README -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=9112BC&center=true&vCenter=true&width=850&height=70&lines=+Omar+Lahjouji;+DevOps+%7C+Cloud+%7C+Automation;+Building+Scalable+Futures" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=9112BC&center=true&vCenter=true&width=850&height=70&lines=+Omar+Lahjouji;+DevOps+%7C+Cloud+%7C+artificial intelligence;+Building+Scalable+Futures" />
 </h1>
 
 ---
 
 ## About Me
 Final-year **Engineering Student** – Networks, Systems & Programmable Services  
-Passionate about **DevOps, Cloud & Automation**  
+Passionate about **DevOps, Cloud & artificial intelligence**  
 Ex-**President of Brain X Club** – Leadership, Teamwork & AI Community  
 Based in Marrakech, Morocco  
 
