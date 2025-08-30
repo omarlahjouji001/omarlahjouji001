@@ -1,7 +1,9 @@
 <!-- Omar Lahjouji GitHub Profile README -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=9112BC&center=true&vCenter=true&width=850&height=70&lines=+Omar+Lahjouji;+DevOps+%7C+Cloud+%7C+Artificial%20Intelligence;+Building+Scalable+Solutions" />
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,ansible,git,github,gitlab,linux,python,java,js,php,C,C++,html,css,react,django,laravel,tailwind,mysql,postgresql" />
+</p>
 </h1>
  
 ---
