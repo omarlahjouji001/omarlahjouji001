@@ -37,7 +37,7 @@ Based in Marrakech, Morocco
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=omarlahjouji001&theme=radical&hide_border=true" height="160"/>
 </p>
