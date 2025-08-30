@@ -1,8 +1,53 @@
 <!-- Omar Lahjouji GitHub Profile README -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F5D4&background=000000&center=true&vCenter=true&width=900&lines=⚡+Omar+Lahjouji+⚡;🚀+DevOps+Engineer+%7C+Cloud+Architect;🤖+Artificial+Intelligence+Explorer;🌍+Building+Scalable+Futures" alt="Typing SVG" />
+<h1 align="center" style="font-family: 'Courier New', monospace; color:#9112BC;">
+  <span class="typewriter"></span>
 </h1>
+
+<style>
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+@keyframes blink {
+  50% { border-color: transparent }
+}
+
+.typewriter {
+  display: inline-block;
+  overflow: hidden;
+  border-right: .15em solid #9112BC; /* Curseur */
+  white-space: nowrap;
+  margin: 0 auto;
+  font-size: 28px;
+  font-weight: bold;
+  animation: typing 4s steps(40, end), blink .75s step-end infinite;
+}
+
+/* Tu peux changer les phrases en JS */
+</style>
+
+<script>
+const texts = [
+  "👋 Omar Lahjouji",
+  "⚡ DevOps | ☁️ Cloud | 🤖 AI",
+  "🚀 Building Scalable Futures"
+];
+let i = 0;
+const tw = document.querySelector('.typewriter');
+
+function typeText() {
+  tw.textContent = texts[i];
+  tw.style.animation = "none";
+  void tw.offsetWidth; // reset animation
+  tw.style.animation = "typing 4s steps(40, end), blink .75s step-end infinite";
+  i = (i + 1) % texts.length;
+}
+
+typeText();
+setInterval(typeText, 5000); // change toutes les 5s
+</script>
 
 ---
 
