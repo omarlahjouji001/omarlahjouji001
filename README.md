@@ -39,7 +39,7 @@ Based in Marrakech, Morocco
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omarlahjouji001&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=600" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=omarlahjouji001&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=600" height="160"/>
   <img src="https://streak-stats.demolab.com?user=omarlahjouji001&theme=radical&hide_border=true" height="160"/>
 </p>
 
