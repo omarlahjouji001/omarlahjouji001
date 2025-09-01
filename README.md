@@ -7,7 +7,7 @@
 ---
 
 ## About Me
-Final-year **Engineering Student** – Networks, Systems & Programmable Services  
+Final year **Engineering Student** – Networks, Systems & Programmable Services  
 Passionate about **DevOps, Cloud & artificial intelligence**  
 Ex-**President of Brain X Club** - Leadership, Teamwork & AI Community  
 Based in Marrakech, Morocco  
