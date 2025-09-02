@@ -14,9 +14,21 @@ Based in Marrakech, Morocco
 
 ---
 
-## Tech Stack:
+##  Tech Stack
+
+###  Programming & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,ansible,git,github,gitlab,linux,python,java,js,php,C,C++,html,css,react,django,laravel,tailwind,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,php,c,cpp,html,css,react,django,laravel,tailwind,mysql,postgresql" />
+</p>
+
+### ⚙ DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins,ansible,git,github,gitlab,linux,ubuntu" />
+</p>
+
+###  Machine Learning & Artificial Intelligence
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
 </p>
 
 ---
