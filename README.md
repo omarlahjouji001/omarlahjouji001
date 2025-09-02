@@ -1,7 +1,7 @@
 <!-- Omar Lahjouji GitHub Profile README -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=FFFFFF&background=000000&center=true&vCenter=true&width=850&height=70&lines=+Omar+Lahjouji;+DevOps+%7C+Cloud+%7C+Artificial%20Intelligence;+Building+Scalable+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=FFFFFF&background=96527A&center=true&vCenter=true&width=850&height=70&lines=+Omar+Lahjouji;+DevOps+%7C+Cloud+%7C+Artificial%20Intelligence;+Building+Scalable+Solutions" />
 </h1>
  
 ---
