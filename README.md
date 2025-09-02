@@ -21,7 +21,7 @@ Based in Marrakech, Morocco
   <img src="https://skillicons.dev/icons?i=python,java,js,php,c,cpp,html,css,react,django,laravel,tailwind,mysql,postgresql" />
 </p>
 
-### ⚙ DevOps
+###  DevOps
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins,ansible,git,github,gitlab,linux,ubuntu" />
 </p>
