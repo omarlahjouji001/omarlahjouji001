@@ -43,9 +43,9 @@ Based in Marrakech, Morocco
 ---
 
 ## Certifications
-- ✅ AWS Cloud Practitioner (2025)  
-- ✅ Machine Learning – Stanford / DeepLearning.AI (2023)  
-- 🔜 AWS Solutions Architect – Associate (2025)  
+-  AWS Solutions Architect – Associate (2025) - Expected in October
+-  AWS Cloud Practitioner (2025)  
+-  Machine Learning – Stanford / DeepLearning.AI (2023)   
 
 ---
 
